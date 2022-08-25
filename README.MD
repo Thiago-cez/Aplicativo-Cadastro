@@ -86,5 +86,13 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   </a>&nbsp;&nbsp;
   <a href="#">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
-
+  </a>&nbsp;&nbsp; 
+    <a href="#">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+  <a href="#">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    
+    
+    
