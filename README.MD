@@ -18,7 +18,7 @@
 <br>
 
 # Demonstração do Projeto
-<P>Teste o Projeto Clicando no Botão a seguir<a href="https://aplicativo-cadastro-7cwwmhxus-thiago-cez.vercel.app/"> [[![My Skills](https://skills.thijs.gg/icons?i=vercel,)](https://skills.thijs.gg)](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</a></P>
+<P>Teste o Projeto Clicando no Botão a seguir<a href="https://aplicativo-cadastro-7cwwmhxus-thiago-cez.vercel.app/"> https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white</a></P>
 <br>
 
 # Gifs 🎥
