@@ -51,6 +51,8 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />        
   </a>&nbsp;&nbsp;  
+
+---
   
     
 # Rodando-a-Aplicação    
@@ -70,7 +72,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
-    <br>
+---
 # Tecnologias
     
    <a href="#">
