@@ -10,7 +10,7 @@
    <a href="#Pré-requisitos">Pré-requisitos</a> • 
    <a href="#Demonstração do Projeto">Demonstração do Projeto</a> •
    <a href="#Rodando-a-Aplicação">Rodando a Aplicação</a> •
-   <a href="#tecnologias">tecnologias</a> •
+   <a href="#Tecnologias">Tecnologias</a> •
    <a href="#autor">autor</a>
 </p>
 
@@ -70,4 +70,8 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
+# Tecnologias
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
+    
 
