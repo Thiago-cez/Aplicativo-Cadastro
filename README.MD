@@ -70,8 +70,11 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
+    <br>
 # Tecnologias
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
+    
+    <a >
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />        
+  </a>&nbsp;&nbsp;
     
 
