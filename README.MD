@@ -37,8 +37,7 @@
     
 # Pré-requisitos
 Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
-    
-<p align='center'>
+   
   
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -47,7 +46,6 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
     
 
 
