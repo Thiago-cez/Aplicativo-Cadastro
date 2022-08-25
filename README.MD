@@ -96,9 +96,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   </a>&nbsp;&nbsp;
 ---
 <br>
-# Autor
-    
-    <p>Feito por <a href="https://www.linkedin.com/in/thiagocezario/" />Thiago Cezario<p>
+
     
     
     
