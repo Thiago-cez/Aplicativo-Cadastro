@@ -11,7 +11,7 @@
    <a href="#Demonstração do Projeto">Demonstração do Projeto</a> •
    <a href="#Rodando-a-Aplicação">Rodando a Aplicação</a> •
    <a href="#Tecnologias">Tecnologias</a> •
-   <a href="#autor">autor</a>
+   <a href="#Autor">Autor</a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   </a>&nbsp;&nbsp;  
 
 ---
-  
+  <br>
     
 # Rodando-a-Aplicação    
     
@@ -73,6 +73,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
 ---
+    <br>
 # Tecnologias
     
    <a href="#">
@@ -93,6 +94,11 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   <a href="#">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
   </a>&nbsp;&nbsp;
+---
+<br>
+# Autor
+    
+    <p>Feito por <a href="https://www.linkedin.com/in/thiagocezario/" />Thiago Cezario<p>
     
     
     
