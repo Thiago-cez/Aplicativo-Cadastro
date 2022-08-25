@@ -73,7 +73,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
 ---
-    <br>
+     
 # Tecnologias
     
    <a href="#">
