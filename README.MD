@@ -38,7 +38,7 @@
 # Pré-requisitos
 Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
-- [GIT](https://git-scm.com)
+- [GIT](https://git-scm.com) https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 - [Node.js](https://nodejs.org/en/)
 - [VScode](https://code.visualstudio.com/) para editar o código.
     
