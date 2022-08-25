@@ -32,7 +32,6 @@
 # Gifs 🎥
 
 <h1>
-    <img title="Photo" src="./gifs/foto1.PNG"/>
-    <img title="GIFT" src="./gifs/Animacao.gif" />
-    <img title="GIFT" src="./gifs/Animacao2.gif" />
+    <img title="Photo" src="foto1.PNG"/>
+    <img title="GIFT" src="Animacao.gif" />
 </h1>
