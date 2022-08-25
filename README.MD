@@ -38,9 +38,16 @@
 # Pré-requisitos
 Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
-- [GIT](https://git-scm.com)       
-- [Node.js](https://nodejs.org/en/) <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-- [VScode](https://code.visualstudio.com/)   para editar o código.
+<p align='center'>
+  
+  <a href="https/git-scm.com">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
     
 
 
