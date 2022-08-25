@@ -9,7 +9,7 @@
    <a href="#features">features</a> •
    <a href="#Pré-requisitos">Pré-requisitos</a> • 
    <a href="#Demonstração do Projeto">Demonstração do Projeto</a> •
-   <a href="#rodando-o-app">rodando-o-app</a> •
+   <a href="#Rodando-a-Aplicação">Rodando a Aplicação</a> •
    <a href="#tecnologias">tecnologias</a> •
    <a href="#autor">autor</a>
 </p>
@@ -53,5 +53,21 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   </a>&nbsp;&nbsp;  
   
     
-
+# Rodando-a-Aplicação    
+    
+```bash
+    # Clone o Repositório
+    git clone https://github.com/Thiago-cez/Aplicativo-Cadastro.git
+    
+    # Entre na Pasta:
+    cd Aplicativo-Cadastro
+    
+    # Instale as Dependencias:
+    npm install
+    
+    # Rodar a Aplicação:
+    npm run dev
+    
+    # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
+```
 
