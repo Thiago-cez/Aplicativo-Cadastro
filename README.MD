@@ -19,14 +19,6 @@
 
 # Demonstração do Projeto
 <P>Teste o Projeto Clicando<a href="https://aplicativo-cadastro-7cwwmhxus-thiago-cez.vercel.app/"> Aqui</a></P>
-
-<br>
-
-# Features 
-- [x] Adicionar Usuarios
-- [x] Editar Usuarios
-- [x] Remover Usuarios
-
 <br>
 
 # Gifs 🎥
@@ -35,3 +27,12 @@
     <img title="Photo" src="foto1.PNG"/>
     <img title="GIFT" src="Animacao.gif" />
 </h1>
+<br>
+# Features 
+- [x] Adicionar Usuarios
+- [x] Editar Usuarios
+- [x] Remover Usuarios
+
+<br>
+
+
