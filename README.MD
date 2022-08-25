@@ -45,6 +45,10 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />        
+  </a>&nbsp;&nbsp;
+    
   
     
 
