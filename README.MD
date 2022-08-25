@@ -73,7 +73,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     <br>
 # Tecnologias
     
-   <a href="https://git-scm.com/">
+   <a href="#">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/en/">
