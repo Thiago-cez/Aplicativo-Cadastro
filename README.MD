@@ -36,11 +36,11 @@
 <br>
     
 # Pré-requisitos
-    Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
+Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     
-- [GIT](https://git-scm.com) Adicionar Usuarios
-- [NODE](https://nodejs.org/en/) Editar Usuarios
-- [VSCODE](https://code.visualstudio.com/) para editar o código.
+- [GIT](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+- [VScode](https://code.visualstudio.com/) para editar o código.
     
 
 
