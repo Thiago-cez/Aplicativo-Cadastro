@@ -73,7 +73,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
     <br>
 # Tecnologias
     
-    <a >
+    <a>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />        
   </a>&nbsp;&nbsp;
     
