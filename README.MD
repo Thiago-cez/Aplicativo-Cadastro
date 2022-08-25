@@ -18,7 +18,7 @@
 <br>
 
 # Demonstração do Projeto
-<P>Teste o Projeto Clicando no Botão a Baixo:<a href="https://aplicativo-cadastro-7cwwmhxus-thiago-cez.vercel.app/"><p></p><img src="vercelfoto.PNG"/></p>
+<P>Teste o Projeto Clicando a seguir: &nbsp;&nbsp;<a href="https://aplicativo-cadastro-7cwwmhxus-thiago-cez.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></p>
 <br>
 
 # Gifs 🎥
