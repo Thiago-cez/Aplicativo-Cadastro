@@ -7,7 +7,7 @@
 
 <p align="center">
    <a href="#features">features</a> •
-   <a href="#pré-requisitos">pré-requisitos</a> • 
+   <a href="#Pré-requisitos">Pré-requisitos</a> • 
    <a href="#Demonstração do Projeto">Demonstração do Projeto</a> •
    <a href="#rodando-o-app">rodando-o-app</a> •
    <a href="#tecnologias">tecnologias</a> •
@@ -34,5 +34,8 @@
 - [x] Remover Usuarios
 
 <br>
+    
+# Pré-requisitos
+    
 
 
